@@ -1,3 +1,8 @@
+Trong trường hợp các code mẫu này có ích với bạn, hãy donate cho tôi tách cà phê.
+Momo or zalopay: 0969809444
+In case example code useful for you, let donate for me cup coffee.
+My paypal THANHNAMLT5@gmail.com
+
 # Esp32-Modbus-Ethernet
 
 ![57258196_629513954187588_3943589780926758912_n](https://user-images.githubusercontent.com/49629370/64406877-21699d00-d0ad-11e9-8661-87a2d658f85d.jpg)
