@@ -1,4 +1,4 @@
-My paypal THANHNAMLT5@gmail.com
+THANHNAMLT5@gmail.com
 
 # Esp32-Modbus-Ethernet
 
